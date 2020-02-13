@@ -1,4 +1,4 @@
-# Exercice intégré
+# Exercice intégré à Ciney 2020
 ## Jour 1 matin
 - Présentation du projet
 - Trello
@@ -28,7 +28,7 @@
 
 ## Jour 4 PM
 - Animation formulaire
-- 
+
 ## Jour 5 AM
 - Capsule Axios (Ajax)
 
@@ -36,4 +36,4 @@
 - Dynamisation accueil
 
 ## Jour 5 PM
-- Debug + planethoster mise en production
+	- Debug + planethoster mise en production
