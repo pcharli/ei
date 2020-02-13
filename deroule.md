@@ -1,4 +1,4 @@
-# Exercice intégré
+# Exercice intégré à Ciney
 ## Jour 1 matin
 - Présentation du projet
 - Trello
